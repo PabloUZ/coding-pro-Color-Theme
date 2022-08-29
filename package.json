@@ -1,0 +1,21 @@
+{
+  "name": "coding-pro",
+  "displayName": "Coding Pro",
+  "description": "A vscode Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Coding Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Coding Pro-color-theme.json"
+      }
+    ]
+  }
+}
